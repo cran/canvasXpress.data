@@ -1,6 +1,6 @@
-214c20b58906e0441cd19d003ad7252b *DESCRIPTION
+e5c475d458f930ef7f79421baa8964eb *DESCRIPTION
 81f5f32bb0b3313c328a07cf2cb0cee6 *NAMESPACE
-0be3b900ba9157e15b776b4e0a7731ff *NEWS.md
+92edc6e3a7fcf1186b17363f125eb17b *NEWS.md
 6c97880147f0b37c10be081de351c3cd *R/data.R
 f6d8eea3ba3a5fb077b6143b3264740c *R/get-data.R
 c58117ebf4bfca3228a4678d5c2f7208 *README.md
@@ -37,6 +37,10 @@ a0a16f0de96bbcd457c23ad5ea2a8776 *inst/extdata/cX-circular2-smp.txt.gz
 0b31b0c4441c990a4c3b94948a67138b *inst/extdata/cX-circular2-var.txt.gz
 53e0ee71e925957a92714444f83ffcdb *inst/extdata/cX-circularNoData-dat.txt.gz
 d78f4069e88d687a4229e756c029e2b4 *inst/extdata/cX-circularNoData-smp.txt.gz
+3224abe99d1ddd7ea4a233ae8b14bcae *inst/extdata/cX-contour-dat.txt.gz
+cc2f85e75f6559493ab74b8312dce902 *inst/extdata/cX-contour2-dat.txt.gz
+5b1d40c685a08d07c7aedaa0510824f4 *inst/extdata/cX-contour3-dat.txt.gz
+57920c6c835ab1480e9055c3b467fdae *inst/extdata/cX-contour4-dat.txt.gz
 645f5e32bbe26e88fc4dcea48363578c *inst/extdata/cX-density-dat.txt.gz
 b0d76711e72ae2395dae7ab3fa6ab03e *inst/extdata/cX-density-var.txt.gz
 ea34ce5fd48999eb8b992218e2737c46 *inst/extdata/cX-density2-dat.txt.gz
@@ -99,7 +103,7 @@ bd29ff11de5e520e423b312f57757142 *inst/extdata/cX-multidimensionalheatmap-dat3.t
 abc1c954ca9d931fff6a2f3dc126e72a *inst/extdata/cX-multidimensionalheatmap-var.txt.gz
 cb26509044324fcac275d66b46b1415c *inst/extdata/cX-multidimensionalheatmap2-dat.txt.gz
 7932b4aaf96db794f2ed22c318280361 *inst/extdata/cX-networkbasic-edges.txt.gz
-e38aa1155f87dbb7e63e379dc141b5c7 *inst/extdata/cX-networkbasic-nodes.txt.gz
+89f17f91f3390fd7727ab6df28dc09dd *inst/extdata/cX-networkbasic-nodes.txt.gz
 c5c84792252f3049927e5be6ddc04c23 *inst/extdata/cX-networkkarate-edges.txt.gz
 61d8b2fa7cfdead033ad9a812458ecb1 *inst/extdata/cX-networkkarate-nodes.txt.gz
 f25e467dbeaa8388019d9cf40ced8f87 *inst/extdata/cX-networkradial-edges.txt.gz
@@ -147,7 +151,7 @@ f961b32f35edfc5a0963daa2ebf608c0 *inst/extdata/cX-swimmer-dat.txt.gz
 6e48281d2949c6ff530e195f8fb9c506 *inst/extdata/cX-tree-dat.txt.gz
 f6dd105297fcc18cadb1c9c64d17c96e *inst/extdata/cX-tree-smp.txt.gz
 cd500ec798cd8298c098b4ad7420d2f1 *inst/extdata/cX-volcano-dat.txt.gz
-8d8afd46ffd94978a2093dc81097d3f5 *inst/extdata/cX-wpapoptosis-edges.txt.gz
+67293f5050c8c9feb9789cf24c23f699 *inst/extdata/cX-wpapoptosis-edges.txt.gz
 1849537d7196d53307f9a1b6ba78beba *inst/extdata/cX-wpapoptosis-nodes.txt.gz
 e362b2ac419e32d9eb02885efc520994 *inst/extdata/network_append.tsv
 cfaffbb6569b8689fef21e0b81a054d4 *inst/extdata/network_compact.json
