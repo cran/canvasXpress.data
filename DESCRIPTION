@@ -1,5 +1,5 @@
 Package: canvasXpress.data
-Version: 1.30.5
+Version: 1.32.7
 Title: Datasets for the 'canvasXpress' Package
 Description: Contains the prepared data that is needed for the 'shiny' application examples in the 
     'canvasXpress' package.  This package also includes datasets used for automated 'testthat' tests.
@@ -20,10 +20,10 @@ Suggests: dplyr, tibble, tidyr, usethis
 LazyData: true
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-12-02 08:53:25 UTC; conniebrett
+Packaged: 2021-03-22 17:07:20 UTC; conniebrett
 Author: Isaac Neuhaus [aut],
   Connie Brett [aut, cre],
   Ger Inberg [aut]
 Maintainer: Connie Brett <connie@aggregate-genius.com>
 Repository: CRAN
-Date/Publication: 2020-12-02 09:00:06 UTC
+Date/Publication: 2021-03-22 21:30:02 UTC
